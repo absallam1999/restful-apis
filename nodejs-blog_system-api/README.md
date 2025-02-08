@@ -1,18 +1,18 @@
 # Restful API Nodejs Blog System with Typescript, Nodejs, Express, PostgreSQL
 
 ## API Endpoints
-1. Users :
-Index
-Show
-Create
-Delete
+1. Users :<br/>
+Index<br/>
+Show<br/>
+Create<br/>
+Delete<br/>
 
-1. Posts:
-Index
-Show
-Create
-Update
-Delete
+1. Posts:<br/>
+Index<br/>
+Show<br/>
+Create<br/>
+Update<br/>
+Delete<br/>
 
 ## how to setup and connect to the database
     
