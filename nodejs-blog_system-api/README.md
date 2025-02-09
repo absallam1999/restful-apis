@@ -1,4 +1,4 @@
-# Restful API Nodejs Blog System with Typescript, Nodejs, Express, PostgreSQL
+# Restful API Nodejs Blog System with Typescript, Nodejs, Express, JWT, PostgreSQL
 
 ## API Endpoints
 1. Users :<br/>
