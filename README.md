@@ -1,6 +1,6 @@
-# RESTFUL APIs
+# RESTFUL Nodejs APIs
 
-## Restful APIs Developed to Handle Requests (Authenticate, Create, Update and Delete)
+## Restful Nodejs APIs Developed to Handle Requests (Authenticate, Create, Update and Delete)
 
 ## Source: [github](https://github.com/absallam1999/restful-apis)
 
