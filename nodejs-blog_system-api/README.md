@@ -27,7 +27,4 @@ Delete<br/>
 
     -- run 'npm install' in terminal to setup project
 
-you can see REQUIREMENTS file to know more 
-
-
 ## Created By: [Absallam](https://github.com/absallam1999)
